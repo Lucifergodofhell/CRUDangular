@@ -1,0 +1,15 @@
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\bin\Debug\netcoreapp2.1\CRUDangular.deps.json
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\bin\Debug\netcoreapp2.1\CRUDangular.runtimeconfig.json
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\bin\Debug\netcoreapp2.1\CRUDangular.runtimeconfig.dev.json
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\bin\Debug\netcoreapp2.1\CRUDangular.dll
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.csprojAssemblyReference.cache
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.csproj.CoreCompileInputs.cache
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.RazorAssemblyInfo.cache
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.RazorAssemblyInfo.cs
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.AssemblyInfoInputs.cache
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.AssemblyInfo.cs
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.RazorTargetAssemblyInfo.cache
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\bin\Debug\netcoreapp2.1\CRUDangular.pdb
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.dll
+C:\Users\rdhal\Documents\angular\newPro\CRUDangular\CRUDangular\obj\Debug\netcoreapp2.1\CRUDangular.pdb
